@@ -11,7 +11,7 @@ train_online_retail (520 142 wierszy)
 test_online_retail (547 229 wierszy)
 
 #### Porównuje walidacje na:
-lokalnym na zbiorze testowym
-na 30% danych testowych czyli "Public Leader Board" na Kaggle
-na 70% danych testowych czyli "Private Leader Board"
-na całym zbiorze testowym
+- lokalnym na zbiorze testowym
+- na 30% danych testowych czyli "Public Leader Board" na Kaggle
+- na 70% danych testowych czyli "Private Leader Board"
+- na całym zbiorze testowym

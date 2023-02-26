@@ -1,4 +1,4 @@
-# dw_competition_6| Konkurs 6 edycja kursu "Praktyczne uczenie maszynowe" - Walidacja
+# Konkurs 6 edycja kursu "Praktyczne uczenie maszynowe" - Walidacja
 
 #### Cel to prognozowanie wartości zwrotu dla danego zamówienia.
 
